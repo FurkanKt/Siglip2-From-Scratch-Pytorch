@@ -22,8 +22,6 @@ This repository provides a minimal and readable implementation focused on educat
 - Sigmoid contrastive learning objective
 - Clean and extensible codebase
 - Easy dataset customization
-- Research-friendly training pipeline
-
 ---
 
 ## 🧠 Architecture
