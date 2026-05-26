@@ -65,7 +65,7 @@ SigLIP2 consists of:
   https://huggingface.co/docs/transformers/model_doc/siglip
 
 - Hugging Face SigLIP2 Models  
-  https://huggingface.co/collections/google/siglip2-67a61d6d7f99d7c9a6c91d7
+  https://huggingface.co/docs/transformers/model_doc/siglip2
 
 ---
 
