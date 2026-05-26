@@ -41,9 +41,6 @@ SigLIP2 consists of:
 - Token embeddings
 - Self-attention layers
 
-### Projection Heads
-- Shared embedding space for image/text alignment
-
 ### Training Objective
 - Sigmoid contrastive loss
 - Efficient pairwise optimization
